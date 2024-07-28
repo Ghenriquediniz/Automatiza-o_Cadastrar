@@ -1,0 +1,12 @@
+12.345.678/0001-99*123.456.789.123*Tecno Auto*Auto Tec*IND*Rua Exemplo*123*Sala 456*Bairro Exemplo*São Paulo*SP*Brasil*01234-567*João da Silva*11 1234-5678*11 98765-4321*joaosilva@gmail.com* 
+23.456.789/0001-88*234.567.890.234*Mega Peças*Peças Mega*CF*Avenida Brasil*456*Sala 123*Bairro Central*Rio de Janeiro*RJ*Brasil*23456-789*Maria Oliveira*21 2345-6789*21 98765-4322*mariaoliveira@gmail.com* 
+34.567.890/0001-77*345.678.901.345*Auto Center*Center Auto*PF*Rua da Paz*789*Sala 234*Bairro Bela Vista*Curitiba*PR*Brasil*34567-890*Carlos Pereira*41 3456-7890*41 98765-4323*carlospereira@gmail.com* 
+45.678.901/0001-66*456.789.012.456*Peças Rápidas*Rápidas Peças*IND*Rua das Flores*101*Sala 345*Bairro Jardim*Porto Alegre*RS*Brasil*45678-901*Ana Souza*51 4567-8901*51 98765-4324*anasouza@gmail.com* 
+12.345.678/0001-99*123.456.789.123*Tecno Auto*Auto Tec*IND*Rua Exemplo*123*Sala 456*Bairro Exemplo*São Paulo*SP*Brasil*01234-567*João da Silva*11 1234-5678*11 98765-4321*joaosilva@gmail.com* 
+23.456.789/0001-88*234.567.890.234*Mega Peças*Peças Mega*CF*Avenida Brasil*456*Sala 123*Bairro Central*Rio de Janeiro*RJ*Brasil*23456-789*Maria Oliveira*21 2345-6789*21 98765-4322*mariaoliveira@gmail.com* 
+34.567.890/0001-77*345.678.901.345*Auto Center*Center Auto*PF*Rua da Paz*789*Sala 234*Bairro Bela Vista*Curitiba*PR*Brasil*34567-890*Carlos Pereira*41 3456-7890*41 98765-4323*carlospereira@gmail.com* 
+45.678.901/0001-66*456.789.012.456*Peças Rápidas*Rápidas Peças*IND*Rua das Flores*101*Sala 345*Bairro Jardim*Porto Alegre*RS*Brasil*45678-901*Ana Souza*51 4567-8901*51 98765-4324*anasouza@gmail.com* 
+12.345.678/0001-99*123.456.789.123*Tecno Auto*Auto Tec*IND*Rua Exemplo*123*Sala 456*Bairro Exemplo*São Paulo*SP*Brasil*01234-567*João da Silva*11 1234-5678*11 98765-4321*joaosilva@gmail.com* 
+23.456.789/0001-88*234.567.890.234*Mega Peças*Peças Mega*CF*Avenida Brasil*456*Sala 123*Bairro Central*Rio de Janeiro*RJ*Brasil*23456-789*Maria Oliveira*21 2345-6789*21 98765-4322*mariaoliveira@gmail.com* 
+34.567.890/0001-77*345.678.901.345*Auto Center*Center Auto*PF*Rua da Paz*789*Sala 234*Bairro Bela Vista*Curitiba*PR*Brasil*34567-890*Carlos Pereira*41 3456-7890*41 98765-4323*carlospereira@gmail.com* 
+45.678.901/0001-66*456.789.012.456*Peças Rápidas*Rápidas Peças*IND*Rua das Flores*101*Sala 345*Bairro Jardim*Porto Alegre*RS*Brasil*45678-901*Ana Souza*51 4567-8901*51 98765-4324*anasouza@gmail.com* 
